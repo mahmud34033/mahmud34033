@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **abdullahalmahmud033@gmail.com**
 
-- 📄 Know about my experiences [t.ly/SdbUt](t.ly/SdbUt)
+- 📄 Know about my experiences [t.ly/SdbUt](https://t.ly/SdbUt)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
