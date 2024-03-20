@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdullah</h1>
 <h3 align="center">I have a strong interest in technology, particularly cybersecurity. I am a diligent explorer who never stops learning. I always try to maintain integrity in whatever I do.</h3>
 <!--<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">-->
-<img align="right" alt="Coding" width="600" src="https://hack.codingblocks.com/_nuxt/img/maingif.1646021.gif">
+<img align="right" alt="Coding" width="450" src="https://hack.codingblocks.com/_nuxt/img/maingif.1646021.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmud34033&label=Profile%20views&color=0e75b6&style=flat" alt="mahmud34033" /> </p>
 
