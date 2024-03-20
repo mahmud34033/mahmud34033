@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmud34033&label=Profile%20views&color=0e75b6&style=flat" alt="mahmud34033" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahmud34033" alt="mahmud34033" /></a> </p>
-
 - 🌱 I’m currently learning **Python**
 
 - 📫 How to reach me **abdullahalmahmud033@gmail.com**
