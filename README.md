@@ -27,4 +27,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahmud34033&show_icons=true&locale=en&theme=ambient_gradient" alt="mahmud34033" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahmud34033&theme=graywhite" alt="mahmud34033" /></p>
+<!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahmud34033&theme=graywhite" alt="mahmud34033" /></p>-->
