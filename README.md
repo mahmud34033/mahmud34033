@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmud34033&label=Profile%20views&color=0e75b6&style=flat" alt="mahmud34033" /> </p>
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently pursuing **Bachelor of Science (B.Sc) in Computer Science and Engineering**
 
 - 📫 How to reach me **abdullahalmahmud033@gmail.com**
 
