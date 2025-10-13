@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently pursuing **Bachelor of Science (B.Sc) in Computer Science and Engineering**
 
-- 📫 How to reach me **abdullahalmahmud033@gmail.com**
+- 📫 How to reach me **mahmud34033@gmail.com**
 
 - 📄 Know about my experiences [t.ly/SdbUt](https://t.ly/SdbUt)
 
