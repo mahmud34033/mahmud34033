@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **mahmud34033@gmail.com**
 
-- 📄 Know about my experiences [t.ly/SdbUt](https://t.ly/SdbUt)
+- 📄 Know about my experiences [Click Here](https://tinyurl.com/mahmud34033)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
