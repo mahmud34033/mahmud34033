@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdullah</h1>
-<h3 align="center">I have a strong interest in technology, particularly cybersecurity. I am a diligent explorer who never stops learning. I always try to maintain integrity in whatever I do.</h3>
+<h3 align="center">I have a strong interest in technology, particularly cybersecurity AND data science. I am a diligent explorer who never stops learning. I always try to maintain integrity in whatever I do.</h3>
 <!--<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">-->
 <img align="right" alt="Coding" width="450" src="https://hack.codingblocks.com/_nuxt/img/maingif.1646021.gif">
 
