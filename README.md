@@ -13,6 +13,8 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=mahmud34033&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-![](https://komarev.com/ghpvc/?username=mahmud34033&label=Profile%20Views&color=blueviolet&style=for-the-badge)
+<!-- ![](https://komarev.com/ghpvc/?username=mahmud34033&label=Profile%20Views&color=blueviolet&style=for-the-badge) -->
+<!-- ![](https://views.igorkowalczyk.dev/api/badge/mahmud34033?label=Visitors&style=flat) -->
+![](https://views.igorkowalczyk.dev/api/badge/mahmud34033?label=Profile%20Views&style=classic)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
